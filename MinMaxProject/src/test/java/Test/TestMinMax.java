@@ -1,7 +1,6 @@
 package Test;
 
 import static org.junit.Assert.assertEquals;
-import static com.finder.min_max;
 
 import org.junit.jupiter.api.Test;
 
